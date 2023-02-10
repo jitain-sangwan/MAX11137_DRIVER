@@ -215,5 +215,5 @@ typedef enum
 
 /* ============================== FUNCTION DECLARATIONS =============================== */
 
-bool MAX11137_WRITE(uint8_t CMD,uint16_t* Data);
+bool MAX11137_WRITE(uint8_t CMD,uint16_t Data);
 #endif
